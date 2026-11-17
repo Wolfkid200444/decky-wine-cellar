@@ -1,0 +1,29 @@
+backend/src/wine_cask/app.rs
+  s_c895f84ed713d0::t_619f6734ec4feb 702-717
+backend/src/wine_cask/catalog.rs
+  s_c895f84ed713d0::t_324581fc6e547a 12,23-26,55
+  s_c895f84ed713d0::t_619f6734ec4feb 53-54,56
+  s_c895f84ed713d0::t_f304cea76a45a6 52
+backend/src/wine_cask/flavors.rs
+  s_c895f84ed713d0::t_619f6734ec4feb 16,28
+backend/src/wine_cask/install.rs
+  s_c895f84ed713d0::t_619f6734ec4feb 359-361
+src/types.ts
+  s_c895f84ed713d0::t_619f6734ec4feb 156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "91a947ede6d60fde7501464c78733986df64b343",
+  "prompts": {},
+  "sessions": {
+    "s_c895f84ed713d0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e7cf-a524-7561-be81-f27f67f49b5b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
